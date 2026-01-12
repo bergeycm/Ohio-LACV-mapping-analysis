@@ -51,7 +51,7 @@ install.packages(setdiff(pkgs, rownames(installed.packages())))
 
 From the repo root (where the script and data live):
 ```
-Rscript ohio_lacv_amish_analysis.R`
+Rscript ohio_lacv_amish_analysis.R
 ```
 
 The script assumes a project root working directory. If you prefer another layout, edit the path lines near the top (e.g., where CSVs and the shapefile are read).
