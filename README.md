@@ -1,9 +1,9 @@
 # Spatial correlates of La Crosse virus (LACV) in Ohio: Amish share & incidence
 
-**Script:** `ohio_lacv_amish_analysis.R` (v1.0.0)
-**Authors:** Morgan E. Chaney (Rutgers), Christina M. Bergey (Rutgers)
-**License:** MIT (see `LICENSE`)
-**Citation:** See `CITATION.cff` (preprint/article link TBD)
+**Script:** `ohio_lacv_amish_analysis.R` (v1.0.0)  
+**Authors:** Morgan E. Chaney (Rutgers), Christina M. Bergey (Rutgers)  
+**License:** MIT (see `LICENSE`)  
+**Citation:** See `CITATION.cff` (preprint/article link TBD)  
 
 ## Overview
 
@@ -58,7 +58,7 @@ The script assumes a project root working directory. If you prefer another layou
 
 ## Contact
 
-Christina M. Bergey — christina.bergey@rutgers.edu
+Christina M. Bergey — christina.bergey@rutgers.edu  
 Morgan E. Chaney
 
 Lab website: https://www.bergey-lab.org/
