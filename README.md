@@ -1,9 +1,12 @@
 # Spatial correlates of La Crosse virus (LACV) in Ohio: Amish share & incidence
 
+[![DOI](https://zenodo.org/badge/1133031822.svg)](https://doi.org/10.5281/zenodo.18228033)
+
 **Script:** `ohio_lacv_amish_analysis.R` (v1.0.0)  
 **Authors:** Morgan E. Chaney (Rutgers), Christina M. Bergey (Rutgers)  
 **License:** MIT (see `LICENSE`)  
-**Citation:** See `CITATION.cff` (preprint/article link TBD)  
+**Citation:** See `CITATION.cff` (preprint/article link TBD)
+
 
 ## Overview
 
